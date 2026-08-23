@@ -16,3 +16,6 @@ Run: `cargo run`
 
 ---
 *Released under the MIT License by nxtdy2020rr.*
+
+---
+*Released under the MIT License by jocck96.*
